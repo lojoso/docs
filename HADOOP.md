@@ -1,6 +1,6 @@
 #### Hadoop结合Zookeeper(高可用)、Kerberos(鉴权)  
 
-##### 1. 解决[阿里云主机数据盘初始化](../阿里云数据盘挂载.md)
+##### 1. 解决[阿里云主机数据盘初始化](./阿里云数据盘挂载.md)
 
 ##### 2. 配置节点间的免密登录  
 
@@ -42,9 +42,9 @@ The key's randomart image is:
 
 试验ssh命令+[hostname] 进行免密连接
 
-##### 3. 每个节点[安装JDK环境](../LINUX_JDK.md)
+##### 3. 每个节点[安装JDK环境](./LINUX_JDK.md)
 
-##### 4. 准备[Zookeeper集群搭建](../ZOOKEEPER.md)
+##### 4. 准备[Zookeeper集群搭建](./ZOOKEEPER.md)
 
 ##### 5. 开始安装hadoop
 
